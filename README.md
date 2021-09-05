@@ -1,4 +1,4 @@
-# 108bridge
+# 108bridges
 
 ### **[108bridges](https://alialhasnawi.github.io/108bridges/)**
 *Ontario bridge data explorer*
