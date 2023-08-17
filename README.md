@@ -1,7 +1,7 @@
 # 108bridges
 
 ## This project is broken due to the Heroku free tier shut down.
-### It will **not** be redeployed or available to test on a local development server since the server source code contains part of an assignment solution.
+### It will **not** be redeployed or available to test on a local development server until June 2024 since the server source code contains part of an assignment solution.
 
 <!--
 ### **[108bridges](https://alialhasnawi.github.io/108bridges/)**
